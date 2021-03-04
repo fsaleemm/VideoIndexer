@@ -6,7 +6,7 @@ This repository contains sample python scripts for using the Video Indexer API t
 
 1) Create a Video Indexer Account using the steps [here](https://docs.microsoft.com/en-us/azure/media-services/video-indexer/connect-to-azure).
 1) Make a note of your Account ID.
-1) Make note of the Indexer Location. We used a trial version.
+1) Make note of the Indexer Location. We used a trial version in the instructions below.
 1) Subscribe to the Video Indexer API by following steps [here](https://docs.microsoft.com/en-us/azure/media-services/video-indexer/video-indexer-use-apis#subscribe-to-the-api).
 1) Make a note of the Primary API Key.
 1) Install [Visual Studio Code](https://code.visualstudio.com/).
