@@ -34,7 +34,7 @@ The script will upload the media file and then check for processing status every
 
 ![](images/ss1.PNG)
 
-If you log in to the [Video Indexer Portal](https://www.videoindexer.ai/), and go to Media Files. You should see the upload happening.
+If you log in to the [Video Indexer Portal](https://www.videoindexer.ai/), and go to Media Files. You should see the upload and indexing progress.
 
 ![](images/ss2.PNG)
 
