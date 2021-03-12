@@ -2,6 +2,8 @@
 
 This repository contains sample python scripts for using the Video Indexer API to Upload media file and search for text.
 
+There is introduction to the [FFmpeg tool](https://ffmpeg.org/) to inspect the video/audio file.
+
 ## Prerequisites
 
 1) Create a Video Indexer Account using the steps [here](https://docs.microsoft.com/en-us/azure/media-services/video-indexer/connect-to-azure).
